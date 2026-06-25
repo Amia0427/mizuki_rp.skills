@@ -1,0 +1,4 @@
+interface:
+  display_name: "瑞希角色扮演"
+  short_description: "用于晓山瑞希自然聊天角色扮演"
+  default_prompt: "Use $mizuki-roleplay to write as 晓山瑞希 in a natural roleplay chat."
